@@ -1,10 +1,8 @@
 - Hi, I’m @spmandrick.
-- I’m interested in reinforcement learning methods that can be applied to problems in combinatorics and graph theory.
+- I’m interested in applying reinforcement learning techniques to problems in combinatorics and graph theory.
 - I’m currently learning about Q-learning.
 
-- You can reach me at:
-    spmandrick(at)gmail.com
-    smandrick(at)ufl.edu
+- You can reach me at: _spmandrick(at)gmail.com_ or _smandrick(at)ufl.edu_
 
 <!---
 spmandrick/spmandrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
